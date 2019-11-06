@@ -21,7 +21,7 @@ def monopoly_with_third_tier
 	  railroads: {
 	    pieces: 4,
 	    rent_in_dollars: {
-	      first: 1,
+	      names: 1,
 	      second: 2,
 	      third: 3,
 	      fourth: 4
